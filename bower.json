@@ -1,0 +1,48 @@
+{
+  "name": "tempelate",
+  "version": "0.0.0",
+  "authors": [
+    "JackChan <jack5241027@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-1.7.2.min": "http://code.jquery.com/jquery-1.7.2.min.js",
+    "bootstrap": "~3.3.4",
+    "greensock": "~1.16.1"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "**/bootstrap.js",
+        "**/bootstrap.css",
+        "**/bootstrap.css.map",
+        "**/bootstrap.min.css",
+        "**/bootstrap.min.js",
+        "**/glyphicons-halflings-regular.*"
+      ]
+    },
+    "jquery": {
+      "main": [
+        "**/jquery.js",
+        "**/jquery.min.js",
+        "**/jquery.min.map",
+        "**/jquery.css"
+      ]
+    },
+    "greensock": {
+      "main": [
+        "**/TimelineMax.min.js"
+      ]
+    }
+  }
+}
