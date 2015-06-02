@@ -12,6 +12,7 @@
     "gulp": "^3.8.11"
   },
   "dependencies": {
+    "browserify": "^10.2.3",
     "gsap": "^1.16.1",
     "gulp": "^3.8.11",
     "gulp-concat": "^2.5.2",

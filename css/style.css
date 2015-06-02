@@ -1,0 +1,26 @@
+.js_couponSlider {
+  position: relative; }
+
+.js_couponSliderImg1 {
+  position: absolute;
+  left: 0px;
+  width: 287px;
+  height: 146px; }
+
+.js_couponSliderImg2 {
+  position: absolute;
+  left: 287px;
+  width: 287px;
+  height: 146px; }
+
+.js_couponSliderImg3 {
+  position: absolute;
+  left: 574px;
+  width: 287px;
+  height: 146px; }
+
+.view {
+  position: relative;
+  width: 287px;
+  height: 146px;
+  overflow: hidden; }
